@@ -1,5 +1,5 @@
 ---
-title: Spring에서 @RequestParam과 @PathVariable 차이점 이해하기
+title: Spring에서 RequestParam과 PathVariable 차이점 이해하기
 date: 2023-09-12 20:00:00 +0900
 categories:
   - Spring

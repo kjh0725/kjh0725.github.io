@@ -1,5 +1,5 @@
 ---
-title: Spring의 @Controller와 @RestController 차이점
+title: Spring의 Controller와 RestController 차이점
 date: 2023-09-10 20:00:00 +0900
 categories:
   - Spring

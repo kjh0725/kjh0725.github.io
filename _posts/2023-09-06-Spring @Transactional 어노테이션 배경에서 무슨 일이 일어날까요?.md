@@ -1,5 +1,5 @@
 ---
-title: Spring @Transactional 어노테이션 배경에서 무슨 일이 일어날까요?
+title: Spring Transactional 어노테이션 배경에서 무슨 일이 일어날까요?
 date: 2023-09-06 20:00:00 +0900
 categories:
   - Spring

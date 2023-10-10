@@ -1,5 +1,5 @@
 ---
-title: Spring에서 @ContextConfiguration과 @ContextComponentScan의 차이점
+title: Spring에서 ContextConfiguration과 ContextComponentScan의 차이점
 date: 2023-08-25 20:00:00 +0900
 categories:
   - Spring

@@ -1,5 +1,5 @@
 ---
-title: Spring에서 여러 @RequestMapping 어노테이션 사용하기
+title: Spring에서 여러 RequestMapping 어노테이션 사용하기
 date: 2023-10-05 20:00:00 +0900
 categories:
   - Spring

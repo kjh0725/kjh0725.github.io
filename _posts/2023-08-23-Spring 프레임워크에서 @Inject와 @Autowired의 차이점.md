@@ -1,5 +1,5 @@
 ---
-title: Spring 프레임워크에서 @Inject와 @Autowired의 차이점
+title: Spring 프레임워크에서 Inject와 Autowired의 차이점
 date: 2023-08-23 20:00:00 +0900
 categories:
   - Spring

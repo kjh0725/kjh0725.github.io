@@ -1,5 +1,5 @@
 ---
-title: Spring MVC에서 @PathVariable과 점(.) 문제 해결하기
+title: Spring MVC에서 PathVariable과 점(.) 문제 해결하기
 date: 2023-09-13 20:00:00 +0900
 categories:
   - Spring
