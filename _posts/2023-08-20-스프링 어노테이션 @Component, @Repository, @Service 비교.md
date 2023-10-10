@@ -1,5 +1,5 @@
 ---
-title: 스프링 어노테이션 Component, Repository, Service 비교
+title: 스프링 어노테이션 @Component, @Repository, @Service 비교
 date: 2023-08-20 20:00:00 +0900
 categories:
   - Spring

@@ -1,5 +1,5 @@
 ---
-title: Spring에서 Transactional 애너테이션의 적절한 위치
+title: Spring에서 @Transactional 애너테이션의 적절한 위치
 date: 2023-08-28 20:00:00 +0900
 categories:
   - Spring

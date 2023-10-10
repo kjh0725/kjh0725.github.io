@@ -1,5 +1,5 @@
 ---
-title: Spring에서의 Resource와 Autowired 차이점
+title: Spring에서의 @Resource와 @Autowired 차이점
 date: 2023-09-07 20:00:00 +0900
 categories:
   - Spring
